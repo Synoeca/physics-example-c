@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace PhysicsExampleCGame
+namespace PhysicsExampleC
 {
     /// <summary>
     /// A class defining constants for the game
